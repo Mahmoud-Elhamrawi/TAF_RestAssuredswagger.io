@@ -1,0 +1,5 @@
+username,firstName,lastName,email,password,phone
+User1,mahmoud,test1,x@gmail.com,test@p1,1111111111
+User2,ahmed,test2,y@gmail.com,test@p2,2222222222
+User3,ayman,test3,z@gmail.com,test@p3,3333333333
+User4,ali,test4,a@gmail.com,test@p4,4444444444
